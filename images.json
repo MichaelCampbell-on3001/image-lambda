@@ -1,0 +1,13 @@
+{
+  "images": {
+    "ID": "001",
+    "Name": "Blades",
+     "Image": "cloud-1-blades.png"
+  },
+
+  "ID": "002",
+    "Name": "Racks",
+     "Image": "cloud-2-racks.jpg"
+  }
+}
+
